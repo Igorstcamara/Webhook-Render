@@ -10,8 +10,8 @@ from fastapi import FastAPI, Request, Response
 # ============================================================
 
 PORTA         = 8000
-BASIC_USUARIO = "123"
-BASIC_SENHA   = "456"
+BASIC_USUARIO = "456"
+BASIC_SENHA   = "123"
 
 # ============================================================
 #  NAO PRECISA EDITAR ABAIXO DESTA LINHA
